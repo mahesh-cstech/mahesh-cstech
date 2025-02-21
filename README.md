@@ -28,5 +28,5 @@ Testing & Debugging: Jest, Mocha, Postman
 📫 Let's Connect!
 
 📩 Email: maheshchitkoti@gmail.com
-🔗 LinkedIn: [linkedin.com/in/maheshchitakoti](https://www.linkedin.com/in/maheshchitakoti/)
-👨‍💻 GitHub: [github.com/maheshchichkoti](https://github.com/maheshchichkoti/)
+🔗 LinkedIn: [maheshchitakoti](https://www.linkedin.com/in/maheshchitakoti/)
+👨‍💻 GitHub: [maheshchichkoti](https://github.com/maheshchichkoti/)
